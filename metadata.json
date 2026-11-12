@@ -1,0 +1,6 @@
+{
+  "name": "VidGet",
+  "description": "Smart, fast video downloader and web browser for authorized and public domain media with VidMate-style UX, segmented downloading, and media player.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
